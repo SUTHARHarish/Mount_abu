@@ -6,32 +6,32 @@ const PopularHillStation = () => {
     {
       name: 'Nakki Lake',
       description: 'This is a famous lake where visitors can enjoy boating. Surrounded by hills and lush greenery, Nakki Lake is a picturesque spot.',
-      image: 'public/nakkiLake.jpeg', // Image in the public folder
+      image: 'src/assets/nakkiLake.jpeg', // Image in the public folder
     },
     {
       name: 'Guru Shikhar',
       description: "This is the highest peak in the Aravalli Range and offers panoramic views of the surrounding area. There's also a temple dedicated to Dattatreya at the summit.",
-      image: 'public/guruShikhar.jpeg', // Image in the public folder
+      image: 'src/assets/guruShikhar.jpeg', // Image in the public folder
     },
     {
       name: 'Dilwara Temples',
       description: 'These are a group of remarkable Jain temples known for their stunning marble architecture and intricate carvings.',
-      image: 'public/dilwaraTemples.jpeg', // Image in the public folder
+      image: 'src/assets/dilwaraTemples.jpeg', // Image in the public folder
     },
     {
       name: 'Achalgarh Fort',
       description: 'A historic fort known for its ancient architecture and scenic surroundings. Inside the fort, there are several temples, including the Achaleshwar Mahadev Temple.',
-      image: 'public/achalgarhFort.jpeg', // Image in the public folder
+      image: 'src/assets/achalgarhFort.jpeg', // Image in the public folder
     },
     {
       name: 'Mount Abu Wildlife Sanctuary',
       description: 'Spread over a large area, this sanctuary is home to various flora and fauna, making it a great spot for nature lovers and wildlife enthusiasts.',
-      image: 'public/wildlifeSanctuary.jpeg', // Image in the public folder
+      image: 'src/assets/wildlifeSanctuary.jpeg', // Image in the public folder
     },
     {
       name: 'Sunset Point',
       description: 'A popular spot to watch the sunset, offering breathtaking views of the surrounding landscape as the sun sets over the hills.',
-      image: 'public/sunsetPoint.jpeg', // Image in the public folder
+      image: 'src/assets/sunsetPoint.jpeg', // Image in the public folder
     },
   ];
 
